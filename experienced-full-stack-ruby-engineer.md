@@ -21,7 +21,7 @@ We are looking for a _talented_ software engineer committed to his or her _craft
 
 ## Benefits ##
 
-Our pay is competitive and based on your experience. Our benefits include outstanding healthcare, a 401 K plan, and after one year, stock options. We fund attendance and participation in tech conferences and support and/or contributions to open source projects that we use or create. Relocation assistance available.
+Our pay is competitive and based on your experience. Our benefits include outstanding healthcare, and a 401 K plan. We fund attendance and participation in tech conferences and support and/or contributions to open source projects that we use or create. Relocation assistance available.
 
 ## How to Apply ##
 
