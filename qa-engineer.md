@@ -19,15 +19,15 @@ You will become a product expert that the support team can turn to for help.
 
 ## About You ##
 * You MUST have experience as a QA engineer
-* You must be patient and detailed oriented
+* You must be patient and detail-oriented
 * Strong problem solving and critical thinking skills
 * Excellent written and oral communication skills
 
 ## How to Apply ##
 
 Send us an email that describes why you are a great fit. 
-Submit your application @rx.
+Submit your application to @rx.
 
 ## Location ##
-We'd love it if you can work with us in our beautiful small city (Traverse City MI). 
+We'd love it if you can work with us in our beautiful small city (Traverse City, MI). 
 We may consider a remote employee if you have a four or more overlapping hours with the eastern time zone (EST/UTC-5).
