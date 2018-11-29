@@ -2,6 +2,8 @@
 
 ## About Us ##
 We ([Geotix](http://geotix.com/)) are a funded, nimble community driven event-ticketing company. 
+
+
 We believe software is a craft that requires continual learning and improvement.
 We believe that software needs to be well tested as a means to evolving it through refactoring.
 We believe that good code comes from clear understanding of the domain and applying proper modeling and disciplined coding practices.
