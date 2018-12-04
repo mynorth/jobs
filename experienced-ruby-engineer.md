@@ -46,4 +46,50 @@ Relocation assistance is available.
 
 Send us an email that describes why you are a great fit. 
 
-Submit your application email to @rx.
+Submit your application email to @rx
+
+<script type="application/ld+json"> {
+  "@context" : "http://schema.org/",
+  "@type" : "JobPosting",
+  "title" : "Experienced Ruby Engineer",
+  "description" : "<p>We are looking for a talented software engineer committed to his or her craft to become a key member of our small growing team.</p>",
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GeoTix",
+    "value": "R201812010000"
+  },
+  "datePosted" : "2018-12-1",
+  "validThrough" : "2018-12-31:00",
+  "employmentType" : "FULL_TIME",
+  "hiringOrganization" : {
+    "@type" : "Organization",
+    "name" : "Geotix",
+    "sameAs" : "http://www.geotix.com/",
+    "logo" : "https://secure.geotix.com/images/geotixlogo-300x300.jpg"
+  },
+  "jobLocation" : {
+    "@type" : "Place",
+    "address" : {
+      "@type" : "PostalAddress",
+      "streetAddress" : "125 South Park Street",
+      "addressLocality" : "Traverse City",
+      "addressRegion" : "MI",
+      "postalCode" : "49684",
+      "addressCountry": "US"
+    },
+    "additionalProperty": {
+      "@type": "PropertyValue",
+      "value": "TELECOMMUTE"
+    }
+  },
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 100000.00,
+      "unitText": "YEAR"
+    }
+  }  
+}
+</script>
