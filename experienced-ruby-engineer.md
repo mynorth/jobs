@@ -1,4 +1,4 @@
-# Experienced Ruby Engineer #
+# Senior Ruby Engineer #
 
 ## About Us ##
 We ([Geotix](http://geotix.com/)) are a funded, nimble community driven event-ticketing company. 
